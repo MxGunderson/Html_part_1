@@ -1,0 +1,22 @@
+Key Terms
+
+Tag	Description
+HTML	Hypertext Markup Language, the language used for encoding the structure of web pages.
+Tag	The beginning of an HTML element, usually denoted with angle brackets surrounding a tag type.
+Element	A distinct component of an HTML document, usually comprised of start and end tags surrounding some kind of content.
+Attribute	Modifies a given element and is located within the tag itself.
+<!DOCTYPE html>	Declares type of document and is always first in HTML document
+<html>	Used to denote the beginning of the HTML in an HTML document
+<head>	Contains metadata about the document and will not be shown in the browser
+<title>	Metadata that states the title of the webpage
+<body>	Contains all content to be displayed in the browser
+<p>	Used to wrap a block of text and causes it to be formatted as a paragraph
+<br>	A self-closing tag that is used to break blocks of text onto another line
+<div>	Used to create a generic container for content
+<img>	A self-closing tag used to display images. Uses the `src` attribute to specify location of the image
+<a>	Used to add hyperlinks and uses the `href` attribute to specify the location of the link
+<input>	Adds input fields to the page and sometimes uses the `placeholder` attribute
+<button>	Adds a button to the page and sometimes uses the `onclick` attribute
+<li>	Used to display lists
+<ol>	Diplays ordered lists and always uses the <li> element
+<ul>	Diplays unordered lists and always uses the <li> element
